@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-01T18:46:56 PET" name="Default suite" finished-at="2021-09-01T18:47:09 PET" duration-ms="13101">
+    <groups>
+    </groups>
+    <test started-at="2021-09-01T18:46:56 PET" name="Default test" finished-at="2021-09-01T18:47:09 PET" duration-ms="13101">
+      <class name="test.PageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:test.PageTest@59af0466]" started-at="2021-09-01T18:46:56 PET" name="init" finished-at="2021-09-01T18:46:58 PET" duration-ms="2136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="registerTest()[pri:0, instance:test.PageTest@59af0466]" started-at="2021-09-01T18:46:58 PET" name="registerTest" finished-at="2021-09-01T18:47:08 PET" duration-ms="10195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:test.PageTest@59af0466]" started-at="2021-09-01T18:47:08 PET" name="quitBrowser" finished-at="2021-09-01T18:47:09 PET" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- test.PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
